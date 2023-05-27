@@ -20,7 +20,10 @@ haxelib git openfl https://github.com/openfl/openfl
 haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
 haxelib git linc_luajit https://github.com/Leather128/linc_luajit.git
 haxelib git flixelTextureAtlas https://github.com/Smokey555/Flixel-TextureAtlas.git
+haxelib git hscript https://github.com/HaxeFoundation/hscript
+haxelib git hscript-improved https://github.com/FNF-CNE-Devs/hscript-improved
 ```
+- (Replace all the files from hscript with hscript-improved)
 
 ## IMPORTANT: use the latest stable polymod not git please
 
